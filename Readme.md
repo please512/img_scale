@@ -1,4 +1,4 @@
-### 参数详情
+﻿### 参数详情
 | 参数值  |  是否必填  | 参数类型 | 举例 | 备注 |
 | ---------|---- | -----| ------- | ------- |
 | width   | 必填   |  Number | 500 | 不需要px |
@@ -30,6 +30,6 @@
 
 ```
 ###### 效果预览
-![Image text](https://raw.githubusercontent.com/please512/scale_img/master/pic1.png)
-![Image text](https://raw.githubusercontent.com/please512/scale_img/master/pic2.png)
-![Image text](https://raw.githubusercontent.com/please512/scale_img/master/pic3.png)
+![Image text](https://raw.githubusercontent.com/please512/img_scale/master/pic1.png)
+![Image text](https://raw.githubusercontent.com/please512/img_scale/master/pic2.png)
+![Image text](https://raw.githubusercontent.com/please512/img_scale/master/pic3.png)
