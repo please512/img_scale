@@ -1,0 +1,11 @@
+{
+  "name": "zy-scale-img",
+  "version": "1.0.0",
+  "description": "电商类网站用到的图片鼠标滑过，放大效果",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "李正阳",
+  "license": "ISC"
+}
